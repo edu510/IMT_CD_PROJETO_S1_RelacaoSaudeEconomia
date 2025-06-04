@@ -1,11 +1,15 @@
 # Análise Exploratória de Dados: Relação entre Saúde e Economia
 
-Este repositório contém um notebook que realiza uma Análise Exploratória de Dados (EDA) sobre a relação entre indicadores econômicos e de saúde em cinco países (Brasil, EUA, Alemanha, Japão e África do Sul) no período de 2000 a 2022. A análise integra dados do Banco Mundial e da Organização Mundial da Saúde (OMS), buscando identificar correlações, tendências temporais e padrões que ajudem a compreender como o desenvolvimento econômico influencia indicadores de saúde.
+Este repositório contém um notebook que realiza uma Análise Exploratória de Dados (EDA) sobre a relação entre indicadores econômicos e de saúde em cinco países (Brasil, EUA, Alemanha, Japão e África do Sul). A análise integra dados do Banco Mundial e da Organização Mundial da Saúde (OMS), buscando identificar correlações, tendências temporais e padrões que ajudem a compreender como o desenvolvimento econômico influencia indicadores de saúde.
 
 ## Link para o Data Folio
 
 Para consultar, visualizar e baixar os dados de forma interativa, acesse:  
 https://raphaelray.github.io/data-folio-site/
+
+## Link para o Video
+
+[Video do YouTube](https://youtu.be/sGJLrWPh5tc)
 
 ## Autores e Identificação do Grupo
 
